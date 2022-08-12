@@ -1,16 +1,6 @@
 # Take the Amazon Cracked Challenge Today!!
 
->  **Connect with a Community of over 40,000 Coders** 
-[![GitHub KushalVijay](https://img.shields.io/github/followers/KushalVijay?label=follow&style=social)](https://github.com/KushalVijay) 
-![](https://img.shields.io/youtube/channel/subscribers/UCOZMPD9TMk0C4yipWBaPZ7w?label=Subscribe%20to%20our%20Channel%20&style=social)
-[![Linkedin: Kushal Vijay](https://img.shields.io/badge/-Kushal%20Vijay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushalvijay/)](https://www.linkedin.com/in/kushalvijay/)
-[![Twitter: Kushal Vijay](https://img.shields.io/twitter/follow/KushalVijay_?style=social)](https://twitter.com/KushalVijay_)
 
-## Enter the Challenge
-- Fork & Star this Github Repo 🌟
-- Share your progress every week by adding new commit every week.
-- Make sure to add Hashtags to your repo **#CrackWithKushalVijay  #SavageForce  #JobHuntWithSavageProgrammer**
-- Add details about your progress in the below table.
 - Join our Doubt Resolution & Discussion Group: [**Enter Now!!**](https://t.me/vijaykushal) 👀
 
 <br />
