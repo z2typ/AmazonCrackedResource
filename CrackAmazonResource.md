@@ -23,11 +23,11 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) |  |  |
 | [Two Sum](https://leetcode.com/problems/two-sum/) |Done|  |
 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  |  |  |
-| [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
+| [LRU Cache](https://leetcode.com/problems/lru-cache/)  |In Progress|  |
 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
-| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
+| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |In Progress|  |
 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  |  |  |
-| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  |  |  |
+| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  |Done|  |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  |Done|  |
 
 
@@ -39,12 +39,12 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) |  |  |
-| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
+| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |Done|  |
 | [Most Common Word](https://leetcode.com/problems/most-common-word/)  |  |  |
 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |  |  |
 | [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |  |  |
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |  |  |
-| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |  |  |
+| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |Done|  |
 | [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
 |  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |  |  |
 | [Friend Circles]( https://leetcode.com/problems/friend-circles/) |  |  |
@@ -92,16 +92,16 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) |  |  |
-| [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) |  |  |
+| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) |Done|  |
+| [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) |Done|  |
 | [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) |  |  |
 | [Decode Ways](https://leetcode.com/problems/decode-ways/) |  |  |
 | [Baseball Game](https://leetcode.com/problems/baseball-game/) |  |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |Done|  |
 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  |  |
-| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  |  |  |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  |Done|  |
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |  |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |Done|  |
 
 ---
 ## Contribute
