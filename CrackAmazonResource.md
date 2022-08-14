@@ -63,7 +63,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  |  |  |
 | [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) |Done|  |
 | [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) |Done|  |
-| [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  |  |  |
+| [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  |Done|  |
 | [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |Done|  |
 | [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |Done|  |
 
